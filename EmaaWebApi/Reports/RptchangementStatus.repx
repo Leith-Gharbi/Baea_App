@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="20.2.3.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="RptchangementStatus" Margins="100, 10, 10, 100" PageWidth="850" PageHeight="1100" Version="20.2">
+  <Bands>
+    <Item1 Ref="1" ControlType="TopMarginBand" Name="topMarginBand1" HeightF="10" />
+    <Item2 Ref="2" ControlType="DetailBand" Name="detailBand1" HeightF="518.666748">
+      <Controls>
+        <Item1 Ref="3" ControlType="XRLabel" Name="label17" RightToLeft="Yes" Multiline="true" Text="أمر المجمع" SizeF="196.874985,28.20832" LocationFloat="27.20871,438.374939" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="4" UseFont="false" />
+        </Item1>
+        <Item2 Ref="5" ControlType="XRLabel" Name="label16" RightToLeft="Yes" Multiline="true" Text="العنوان بالكامل: ..........................................................................................................." SizeF="631.083,28.208313" LocationFloat="94.9170456,317.4583" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="6" UseFont="false" />
+        </Item2>
+        <Item3 Ref="7" ControlType="XRLabel" Name="label25" RightToLeft="Yes" Multiline="true" Text="أمر السريـــة" SizeF="196.874985,28.20832" LocationFloat="527.916565,438.3749" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="8" UseFont="false" />
+        </Item3>
+        <Item4 Ref="9" ControlType="XRLabel" Name="label26" RightToLeft="Yes" Multiline="true" Text="ملاحظة: يشطب على العبارات الزائدة و إحالة البطاقة قبل منتصف النهار." SizeF="631.083,28.208313" LocationFloat="93.70855,371.708344" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="10" UseFont="false" />
+        </Item4>
+        <Item5 Ref="11" ControlType="XRLabel" Name="label24" RightToLeft="Yes" Multiline="true" Text="إثر عيادة: .................." SizeF="196.874969,28.208313" LocationFloat="93.70855,131.541672" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="12" UseFont="false" />
+        </Item5>
+        <Item6 Ref="13" ControlType="XRLabel" Name="label23" RightToLeft="Yes" Multiline="true" Text="بدون رخصة: .................." SizeF="196.874969,28.208313" LocationFloat="290.583527,131.541672" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="14" UseFont="false" />
+        </Item6>
+        <Item7 Ref="15" ControlType="XRLabel" Name="label22" RightToLeft="Yes" Multiline="true" Text="إثر رخصة: ..........................." SizeF="238.541626,28.2083168" LocationFloat="487.458435,131.541672" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="16" UseFont="false" />
+        </Item7>
+        <Item8 Ref="17" ControlType="XRLabel" Name="label21" RightToLeft="Yes" Multiline="true" Text="تغيب يوم: ..........................." SizeF="238.541626,28.2083168" LocationFloat="487.458435,85.08333" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="18" UseFont="false" />
+        </Item8>
+        <Item9 Ref="19" ControlType="XRLabel" Name="label18" RightToLeft="Yes" Multiline="true" Text="الرقم بالوحدة: ................" SizeF="204.583359,28.2083168" LocationFloat="86.00009,40.29166" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="20" UseFont="false" />
+        </Item9>
+        <Item10 Ref="21" ControlType="XRLabel" Name="label19" RightToLeft="Yes" Multiline="true" Text="الرقم بالتجنيد: ................" SizeF="196.874985,28.2083168" LocationFloat="290.583527,40.29166" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="22" UseFont="false" />
+        </Item10>
+        <Item11 Ref="23" ControlType="XRLabel" Name="label20" RightToLeft="Yes" Multiline="true" Text="الرتبة: ................................." SizeF="238.541626,28.2083168" LocationFloat="487.458435,40.29166" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="24" UseFont="false" />
+        </Item11>
+        <Item12 Ref="25" ControlType="XRLabel" Name="label9" RightToLeft="Yes" Multiline="true" Text="الإسم: ..................................." SizeF="238.541626,28.2083168" LocationFloat="486.249939,0" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="26" UseFont="false" />
+        </Item12>
+        <Item13 Ref="27" ControlType="XRLabel" Name="label10" RightToLeft="Yes" Multiline="true" Text="إسم الأب:......................" SizeF="196.874985,28.2083168" LocationFloat="289.375,0" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="28" UseFont="false" />
+        </Item13>
+        <Item14 Ref="29" ControlType="XRLabel" Name="label11" RightToLeft="Yes" Multiline="true" Text="اللقب:............................." SizeF="196.875015,28.2083168" LocationFloat="92.49997,0" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="30" UseFont="false" />
+        </Item14>
+        <Item15 Ref="31" ControlType="XRLabel" Name="label12" RightToLeft="Yes" Multiline="true" Text="إثر نقاهة: ..........................." SizeF="238.541626,28.2083168" LocationFloat="486.249939,176.041672" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="32" UseFont="false" />
+        </Item15>
+        <Item16 Ref="33" ControlType="XRLabel" Name="label13" RightToLeft="Yes" Multiline="true" Text="إلتحق بالقاعدة يوم: ................" SizeF="238.541626,28.2083282" LocationFloat="486.249939,219.874985" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="34" UseFont="false" />
+        </Item16>
+        <Item17 Ref="35" ControlType="XRLabel" Name="label14" RightToLeft="Yes" Multiline="true" Text="مصحوبا ب: ...................................................." SizeF="391.3329,28.2083282" LocationFloat="94.9170456,219.874985" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="36" UseFont="false" />
+        </Item17>
+        <Item18 Ref="37" ControlType="XRLabel" Name="label15" RightToLeft="Yes" Multiline="true" Text="المرجع: ..........................................................................................................." SizeF="631.083,28.208313" LocationFloat="93.70855,260.666626" Font="Times New Roman, 14.25pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="38" UseFont="false" />
+        </Item18>
+      </Controls>
+    </Item2>
+    <Item3 Ref="39" ControlType="BottomMarginBand" Name="bottomMarginBand1" />
+    <Item4 Ref="40" ControlType="ReportHeaderBand" Name="ReportHeader" HeightF="184.666626">
+      <Controls>
+        <Item1 Ref="41" ControlType="XRLabel" Name="label8" RightToLeft="Yes" Multiline="true" Text="(غياب)/(رجوع)" TextAlignment="TopCenter" SizeF="736.000061,23" LocationFloat="3.9999485,139.041641" Font="Times New Roman, 16pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="42" UseFont="false" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="43" ControlType="XRLabel" Name="label4" RightToLeft="Yes" Multiline="true" Text="عــــــــــدد/..........." TextAlignment="TopCenter" SizeF="180.208374,23.0000038" LocationFloat="545.7916,93.04164" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="44" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="45" ControlType="XRLabel" Name="label3" Multiline="true" Text="جيش الطيران" TextAlignment="TopCenter" SizeF="180.208374,23.0000038" LocationFloat="545.7916,46.0000038" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="46" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="47" ControlType="XRLabel" Name="label2" Multiline="true" Text="وزارة الدفاع الوطني" TextAlignment="TopCenter" SizeF="180.208374,23" LocationFloat="545.7916,23" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="48" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="49" ControlType="XRLabel" Name="label1" Multiline="true" Text="الجمهورية التونسية" TextAlignment="TopCenter" SizeF="180.208374,23" LocationFloat="545.7916,0" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="50" UseFont="false" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="51" ControlType="XRLabel" Name="label5" Multiline="true" Text="بطاقة تغيير وضعية" TextAlignment="TopCenter" SizeF="736.000061,23" LocationFloat="0,116.041664" Font="Times New Roman, 16pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="52" UseFont="false" UseTextAlignment="false" />
+        </Item6>
+        <Item7 Ref="53" ControlType="XRLabel" Name="label6" RightToLeft="Yes" Multiline="true" Text="القاعدة الجوية بالخروبة" TextAlignment="TopCenter" SizeF="180.208374,23.0000038" LocationFloat="545.7916,70.04164" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="54" UseFont="false" UseTextAlignment="false" />
+        </Item7>
+        <Item8 Ref="55" ControlType="XRLabel" Name="label7" RightToLeft="Yes" Multiline="true" Text="الخروبة في ....................." TextAlignment="TopCenter" SizeF="255.2084,23.0000038" LocationFloat="0,0" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="56" UseFont="false" UseTextAlignment="false" />
+        </Item8>
+      </Controls>
+    </Item4>
+  </Bands>
+</XtraReportsLayoutSerializer>

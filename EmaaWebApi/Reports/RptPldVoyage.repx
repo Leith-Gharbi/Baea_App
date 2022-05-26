@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="20.2.3.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="RptPldVoyage" Margins="54, 56, 12, 12" PageWidth="850" PageHeight="1100" Version="20.2">
+  <Bands>
+    <Item1 Ref="1" ControlType="TopMarginBand" Name="topMarginBand1" HeightF="12" />
+    <Item2 Ref="2" ControlType="DetailBand" Name="detailBand1" HeightF="624.6669">
+      <SubBands>
+        <Item1 Ref="3" ControlType="SubBand" Name="SubBand1" />
+      </SubBands>
+      <Controls>
+        <Item1 Ref="4" ControlType="XRTable" Name="table1" SizeF="709.9584,50" LocationFloat="9.99996948,51.0416679" Padding="2,2,0,0,96">
+          <Rows>
+            <Item1 Ref="5" ControlType="XRTableRow" Name="tableRow1" Weight="1">
+              <Cells>
+                <Item1 Ref="6" ControlType="XRTableCell" Name="tableCell6" Weight="2.0995840454101562" Multiline="true" />
+                <Item2 Ref="7" ControlType="XRTableCell" Name="tableCell5" Weight="1" Multiline="true" Text="الإسم و اللقب" />
+                <Item3 Ref="8" ControlType="XRTableCell" Name="tableCell1" Weight="1" Multiline="true" />
+                <Item4 Ref="9" ControlType="XRTableCell" Name="tableCell4" Weight="1" Multiline="true" Text="الرقم بالتجنيد أو /ض" />
+                <Item5 Ref="10" ControlType="XRTableCell" Name="tableCell2" Weight="1" Multiline="true" />
+                <Item6 Ref="11" ControlType="XRTableCell" Name="tableCell3" Weight="1" Multiline="true" Text="الرتبة" />
+              </Cells>
+            </Item1>
+            <Item2 Ref="12" ControlType="XRTableRow" Name="tableRow2" Weight="1">
+              <Cells>
+                <Item1 Ref="13" ControlType="XRTableCell" Name="tableCell7" Weight="2.0995840454101562" Multiline="true" />
+                <Item2 Ref="14" ControlType="XRTableCell" Name="tableCell8" Weight="1" Multiline="true" Text="الخطة" />
+                <Item3 Ref="15" ControlType="XRTableCell" Name="tableCell9" Weight="1" Multiline="true" />
+                <Item4 Ref="16" ControlType="XRTableCell" Name="tableCell10" Weight="1" Multiline="true" Text="عدد الأطفال" />
+                <Item5 Ref="17" ControlType="XRTableCell" Name="tableCell11" Weight="1" Multiline="true" />
+                <Item6 Ref="18" ControlType="XRTableCell" Name="tableCell12" Weight="1" Multiline="true" Text="الحالة العائلية" />
+              </Cells>
+            </Item2>
+          </Rows>
+        </Item1>
+        <Item2 Ref="19" ControlType="XRLabel" Name="label7" RightToLeft="Yes" Multiline="true" Text="(*) يشطب على العبارة الزائد" TextAlignment="TopLeft" SizeF="200.565552,23" LocationFloat="524.8691,586.9584" Padding="2,2,0,0,100">
+          <StylePriority Ref="20" UseTextAlignment="false" />
+        </Item2>
+      </Controls>
+    </Item2>
+    <Item3 Ref="21" ControlType="BottomMarginBand" Name="bottomMarginBand1" HeightF="12.3331709" />
+    <Item4 Ref="22" ControlType="ReportHeaderBand" Name="ReportHeader" HeightF="190.083328">
+      <Controls>
+        <Item1 Ref="23" ControlType="XRLabel" Name="label5" Multiline="true" Text="طلب رخصة للخارج" TextAlignment="TopCenter" SizeF="736.000061,23" LocationFloat="0,157.083328" Font="Times New Roman, 16pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="24" UseFont="false" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="25" ControlType="XRLabel" Name="label8" RightToLeft="Yes" Multiline="true" Text="العوينة في : ................." TextAlignment="TopCenter" SizeF="180.208374,23.0000038" LocationFloat="58.2558937,7.99997663" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="26" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="27" ControlType="XRLabel" Name="label1" Multiline="true" Text="الجمهورية التونسية" TextAlignment="TopCenter" SizeF="180.208374,23" LocationFloat="545.7917,7.99997663" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="28" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="29" ControlType="XRLabel" Name="label3" Multiline="true" Text="جيش الطيران" TextAlignment="TopCenter" SizeF="180.208374,23.0000038" LocationFloat="545.7917,54.00001" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="30" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="31" ControlType="XRLabel" Name="label2" Multiline="true" Text="وزارة الدفاع الوطني" TextAlignment="TopCenter" SizeF="180.208374,23" LocationFloat="545.7917,30.9999943" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="32" UseFont="false" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="33" ControlType="XRLabel" Name="label4" RightToLeft="Yes" Multiline="true" Text="القاعدة الجوية بالعوينة" TextAlignment="TopCenter" SizeF="180.208374,23.0000038" LocationFloat="545.7917,77" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="34" UseFont="false" UseTextAlignment="false" />
+        </Item6>
+      </Controls>
+    </Item4>
+  </Bands>
+</XtraReportsLayoutSerializer>

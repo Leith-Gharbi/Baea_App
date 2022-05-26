@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="20.2.3.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v20.2, Version=20.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="Rpt_punition" Margins="26, 32, 5, 100" PageWidth="850" PageHeight="1100" Version="20.2">
+  <Bands>
+    <Item1 Ref="1" ControlType="TopMarginBand" Name="topMarginBand1" HeightF="4.82173824" />
+    <Item2 Ref="2" ControlType="DetailBand" Name="detailBand1" HeightF="745.4166">
+      <Controls>
+        <Item1 Ref="3" ControlType="XRLabel" Name="label7" RightToLeft="Yes" Multiline="true" Text="(*) تكتب مدة العقوبة بلسان القلم و في صورة عدم و جودها يقع التنصيص على عبارة &quot;لا شيء&quot;" TextAlignment="MiddleLeft" SizeF="734.791748,23" LocationFloat="36.08344,722.4165" Padding="2,2,0,0,100">
+          <StylePriority Ref="4" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="5" ControlType="XRTable" Name="table2" RightToLeft="Yes" TextAlignment="MiddleCenter" SizeF="750.12,700" LocationFloat="20.45834,10.0000067" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,96" Borders="All">
+          <Rows>
+            <Item1 Ref="6" ControlType="XRTableRow" Name="tableRow3" Weight="1">
+              <Cells>
+                <Item1 Ref="7" ControlType="XRTableCell" Name="tableCell10" Weight="4.764582181475788" Multiline="true" />
+                <Item2 Ref="8" ControlType="XRTableCell" Name="tableCell11" Weight="2.58042805902096" Multiline="true" Text="السلطة المقررة للعقوبة&#xD;&#xA;(الرتبة , الإسم و اللقب و الخطة)" />
+              </Cells>
+            </Item1>
+            <Item2 Ref="9" ControlType="XRTableRow" Name="tableRow4" Weight="1">
+              <Cells>
+                <Item1 Ref="10" ControlType="XRTableCell" Name="tableCell9" Weight="4.764582181475788" Multiline="true" />
+                <Item2 Ref="11" ControlType="XRTableCell" Name="tableCell12" Weight="2.58042805902096" Multiline="true" Text="العقوبة المقــــررة &#xD;&#xA;(بلسان القلم)" />
+              </Cells>
+            </Item2>
+            <Item3 Ref="12" ControlType="XRTableRow" Name="tableRow5" Weight="1">
+              <Cells>
+                <Item1 Ref="13" ControlType="XRTableCell" Name="tableCell13" Weight="4.764582181475788" Multiline="true" />
+                <Item2 Ref="14" ControlType="XRTableCell" Name="tableCell14" Weight="2.58042805902096" Multiline="true" Text="سبب العقوبة" />
+              </Cells>
+            </Item3>
+            <Item4 Ref="15" ControlType="XRTableRow" Name="tableRow6" Weight="1">
+              <Cells>
+                <Item1 Ref="16" ControlType="XRTableCell" Name="tableCell15" Weight="4.764582181475788" Multiline="true" />
+                <Item2 Ref="17" ControlType="XRTableCell" Name="tableCell16" Weight="2.58042805902096" Multiline="true" Text="عرض لأسباب العقوبة" />
+              </Cells>
+            </Item4>
+            <Item5 Ref="18" ControlType="XRTableRow" Name="tableRow7" Weight="1">
+              <Cells>
+                <Item1 Ref="19" ControlType="XRTableCell" Name="tableCell17" Weight="4.764582181475788" Multiline="true" />
+                <Item2 Ref="20" ControlType="XRTableCell" Name="tableCell18" Weight="2.58042805902096" Multiline="true" Text="تصريح المعني بالأمر" />
+              </Cells>
+            </Item5>
+            <Item6 Ref="21" ControlType="XRTableRow" Name="tableRow8" Weight="1">
+              <Cells>
+                <Item1 Ref="22" ControlType="XRTableCell" Name="tableCell19" Weight="4.764582181475788" Multiline="true" />
+                <Item2 Ref="23" ControlType="XRTableCell" Name="tableCell20" Weight="2.58042805902096" Multiline="true" Text="ملاحظات حول السلوك المعتاد وكيفية القيام بالعمل&#xD;&#xA;" />
+              </Cells>
+            </Item6>
+            <Item7 Ref="24" ControlType="XRTableRow" Name="tableRow9" Weight="1">
+              <Cells>
+                <Item1 Ref="25" ControlType="XRTableCell" Name="tableCell22" Weight="7.3450102404967481" Multiline="true" Text="       رأي    /  قرار  /   ملاحظــــــة" />
+              </Cells>
+            </Item7>
+            <Item8 Ref="26" ControlType="XRTableRow" Name="tableRow10" Weight="1">
+              <Cells>
+                <Item1 Ref="27" ControlType="XRTableCell" Name="tableCell23" Weight="4.764582181475788" Multiline="true" Text="أمر الفــــــوج  (أو وحدة معادلة)" />
+                <Item2 Ref="28" ControlType="XRTableCell" Name="tableCell24" Weight="2.58042805902096" Multiline="true" Text="أمر السرية ( أو وحدة معادلة)" />
+              </Cells>
+            </Item8>
+            <Item9 Ref="29" ControlType="XRTableRow" Name="tableRow11" Weight="1">
+              <Cells>
+                <Item1 Ref="30" ControlType="XRTableCell" Name="tableCell25" Weight="4.764582181475788" Multiline="true" />
+                <Item2 Ref="31" ControlType="XRTableCell" Name="tableCell26" Weight="2.58042805902096" Multiline="true" />
+              </Cells>
+            </Item9>
+          </Rows>
+          <StylePriority Ref="32" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+        </Item2>
+      </Controls>
+    </Item2>
+    <Item3 Ref="33" ControlType="BottomMarginBand" Name="bottomMarginBand1" />
+    <Item4 Ref="34" ControlType="ReportHeaderBand" Name="ReportHeader" HeightF="218.75">
+      <Controls>
+        <Item1 Ref="35" ControlType="XRTable" Name="table1" RightToLeft="Yes" SizeF="734.791748,60" LocationFloat="20.45834,158.333328" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,96">
+          <Rows>
+            <Item1 Ref="36" ControlType="XRTableRow" Name="tableRow1" Weight="1">
+              <Cells>
+                <Item1 Ref="37" ControlType="XRTableCell" Name="tableCell7" Weight="1" Multiline="true" />
+                <Item2 Ref="38" ControlType="XRTableCell" Name="tableCell1" Weight="1" Multiline="true" Text="الرتبة:" />
+                <Item3 Ref="39" ControlType="XRTableCell" Name="tableCell2" Weight="1" Multiline="true" />
+                <Item4 Ref="40" ControlType="XRTableCell" Name="tableCell3" Weight="1" Multiline="true" Text="الإسم و اللقب :" />
+              </Cells>
+            </Item1>
+            <Item2 Ref="41" ControlType="XRTableRow" Name="tableRow2" Weight="1">
+              <Cells>
+                <Item1 Ref="42" ControlType="XRTableCell" Name="tableCell8" Weight="1" Multiline="true" />
+                <Item2 Ref="43" ControlType="XRTableCell" Name="tableCell4" Weight="1" Multiline="true" Text="الرقم بالقطعة:" />
+                <Item3 Ref="44" ControlType="XRTableCell" Name="tableCell5" Weight="1" Multiline="true" />
+                <Item4 Ref="45" ControlType="XRTableCell" Name="tableCell6" Weight="1" Multiline="true" Text="الرقم بالتجنــيد :" />
+              </Cells>
+            </Item2>
+          </Rows>
+          <StylePriority Ref="46" UseFont="false" />
+        </Item1>
+        <Item2 Ref="47" ControlType="XRLabel" Name="label6" RightToLeft="Yes" Multiline="true" Text="عــقـوبة" TextAlignment="TopCenter" SizeF="792.000061,23.0000076" LocationFloat="0,112.958336" Font="Times New Roman, 16pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="48" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="49" ControlType="XRLabel" Name="label5" RightToLeft="Yes" Multiline="true" Text="العوينة في :" TextAlignment="TopLeft" SizeF="203.125,23" LocationFloat="20.4583321,10.0000067" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="50" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="51" ControlType="XRLabel" Name="label4" RightToLeft="Yes" Multiline="true" Text="القـــاعـــدة الجوية بالعويـنة" TextAlignment="TopCenter" SizeF="203.125061,23.0000038" LocationFloat="552.125,79.00003" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="52" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="53" ControlType="XRLabel" Name="label3" RightToLeft="Yes" Multiline="true" Text="جيش الطيران" TextAlignment="TopCenter" SizeF="203.125061,23.0000038" LocationFloat="552.125,56.00001" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="54" UseFont="false" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="55" ControlType="XRLabel" Name="label2" RightToLeft="Yes" Multiline="true" Text="وزارة الدفاع الوطني" TextAlignment="TopCenter" SizeF="203.125061,23" LocationFloat="552.125,33.0000076" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="56" UseFont="false" UseTextAlignment="false" />
+        </Item6>
+        <Item7 Ref="57" ControlType="XRLabel" Name="label1" RightToLeft="Yes" Multiline="true" Text="الجمهورية التونسية" TextAlignment="TopCenter" SizeF="203.125,23" LocationFloat="552.125,10.0000067" Font="Times New Roman, 14pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="58" UseFont="false" UseTextAlignment="false" />
+        </Item7>
+      </Controls>
+    </Item4>
+  </Bands>
+</XtraReportsLayoutSerializer>
